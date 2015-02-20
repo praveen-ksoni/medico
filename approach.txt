@@ -1,0 +1,33 @@
+Requirments
+
+Business needs
+
+Functional elaboration with 
+	prototypes
+	workflows
+	business rules
+
+NFRs:
+	Maintainance requirements: backup, upgrade, resuse
+	Handling of missed entries
+
+
+Concerns
+	in/out may go un logged. difficult to do data entry for
+
+----------------------------------------
+Design
+------
+
+High level
+	Architecture
+	complete separation from DB schema design	
+
+
+Low level
+	DB design
+	Application component design
+
+----------------------------------------
+Implementation
+---------------
